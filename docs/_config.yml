@@ -39,7 +39,6 @@ footer_content: "Bazze.io"
 # color_scheme: "dark"
 
 # Build settings
-theme: minima
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
